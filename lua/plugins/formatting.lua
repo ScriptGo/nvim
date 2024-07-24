@@ -7,8 +7,6 @@ return {
 		conform.setup({
 			formatters_by_ft = {
 				bash = { "shellcheck", "shfmt" },
-				css = { "prettier" },
-				html = { "prettier" },
 				json = { "prettier" },
 				lua = { "stylua" },
 				markdown = { "prettier" },
