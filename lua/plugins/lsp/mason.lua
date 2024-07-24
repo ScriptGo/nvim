@@ -19,8 +19,6 @@ return {
 		mason_tool_installer.setup({
 			ensure_installed = {
 				"bashls",
-				"cssls",
-				"html",
 				"lua_ls",
 				"markdownlint",
 				"prettier",
