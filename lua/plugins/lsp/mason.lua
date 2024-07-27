@@ -22,6 +22,8 @@ return {
 				"lua_ls",
 				"markdownlint",
 				"prettier",
+			        "isort",
+				"black",
 				"pyright",
 				"shellcheck",
 				"shfmt",
